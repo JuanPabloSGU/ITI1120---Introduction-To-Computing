@@ -1,0 +1,196 @@
+# Family Name: JuanPablo Sanchez
+# Student Number: 
+# Course: ITI 1120
+# Assignment Number 2
+# Due October 2, 2020
+
+Example Run:
+
+*****************************************
+*                                       *
+* __Welcome to my math quiz-generator__ *
+*                                       *
+*****************************************
+What is your name? JuanPablo
+Hi JuanPablo. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+******************************************************************************
+*                                                                            *
+*__JuanPablo, welcome to my quiz-generator for elementary school students.__ *
+*                                                                            *
+******************************************************************************
+JuanPablo what would you like to practice? Enter 
+0 for subtraction
+1 for exponentitation 0
+How many practice questions would you like to do? Enter 0, 1, or 2: 2
+Question 1
+What is the result of 4-1? 3
+Question 2
+What is the result of 9-2? 7
+Congradulations JuanPablo! You'll probably get an A tomorrow.
+Good bye JuanPablo!
+>>> 
+
+Example Run:
+*****************************************
+*                                       *
+* __Welcome to my math quiz-generator__ *
+*                                       *
+*****************************************
+What is your name? Michael
+Hi Michael. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+****************************************************************************
+*                                                                          *
+*__Michael, welcome to my quiz-generator for elementary school students.__ *
+*                                                                          *
+****************************************************************************
+Michael what would you like to practice? Enter 
+0 for subtraction
+1 for exponentitation 1
+How many practice questions would you like to do? Enter 0, 1, or 2: 1
+Question 1
+What is the result of 9^5? 50000
+I think you need some more pratice Michael.
+Good bye Michael!
+>>> 
+
+Example Run:
+*****************************************
+*                                       *
+* __Welcome to my math quiz-generator__ *
+*                                       *
+*****************************************
+What is your name? Alexander
+Hi Alexander. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+2
+*******************************************************************
+*                                                                 *
+*__quadratic equation, a·x^2 + b·x + c = 0, solver for Alexander__*
+*                                                                 *
+*******************************************************************
+Alexander, would you like a quadratic equation solved? YEs
+Good choice!
+Enter a number the coefficient a: 1
+Enter a number the coefficient b: 2
+Enter a number the coefficient c: 3
+The quadratic equation 1.0·x^2 + 2.0·x + 3.0 = 0
+has the following two complex roots: 
+-1.0 + i 1.4142135623730951
+ and
+-1.0 - i 1.4142135623730951
+Alexander, would you like a quadratic equation solved? yEs
+Good choice!
+Enter a number the coefficient a: -1
+Enter a number the coefficient b: 10
+Enter a number the coefficient c: 36
+The quadratic equation -1.0·x^2 + 10.0·x + 36.0 = 0
+has the following real roots: 
+-2.810249675906654 and 12.810249675906654
+Alexander, would you like a quadratic equation solved? YES
+Good choice!
+Enter a number the coefficient a: 0
+Enter a number the coefficient b: 2.5
+Enter a number the coefficient c: 3.246
+The linear equation 2.5·x + 3.246 = 0
+has the following real roots: -1.2984
+Alexander, would you like a quadratic equation solved? yes
+Good choice!
+Enter a number the coefficient a: 0
+Enter a number the coefficient b: 0
+Enter a number the coefficient c: 2.5
+The quadratic equation 0.0·x + 2.5 = 0
+is satisfied for no numbers x
+Alexander, would you like a quadratic equation solved? yes
+Good choice!
+Enter a number the coefficient a: 0
+Enter a number the coefficient b: 0
+Enter a number the coefficient c: 0
+The quadratic equation 0.0·x + 0.0 = 0
+is satisfied for all numbers x
+Alexander, would you like a quadratic equation solved? NO
+Good bye Alexander!
+>>> 
+
+Example Run:
+*****************************************
+*                                       *
+* __Welcome to my math quiz-generator__ *
+*                                       *
+*****************************************
+What is your name? Jason
+Hi Jason. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+**************************************************************************
+*                                                                        *
+*__Jason, welcome to my quiz-generator for elementary school students.__ *
+*                                                                        *
+**************************************************************************
+Jason what would you like to practice? Enter 
+0 for subtraction
+1 for exponentitation 5
+Invalid choice. Only 0 or 1 is accpeted.
+Good bye Jason!
+>>> 
+
+Example Run:
+*****************************************
+*                                       *
+* __Welcome to my math quiz-generator__ *
+*                                       *
+*****************************************
+What is your name? Miles
+Hi Miles. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+**************************************************************************
+*                                                                        *
+*__Miles, welcome to my quiz-generator for elementary school students.__ *
+*                                                                        *
+**************************************************************************
+Miles what would you like to practice? Enter 
+0 for subtraction
+1 for exponentitation 0
+How many practice questions would you like to do? Enter 0, 1, or 2: 0
+Zero questions. OK. Good bye
+Good bye Miles!
+>>> 
+
+Example Run:
+*****************************************
+*                                       *
+* __Welcome to my math quiz-generator__ *
+*                                       *
+*****************************************
+What is your name? Leti
+Hi Leti. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+*************************************************************************
+*                                                                       *
+*__Leti, welcome to my quiz-generator for elementary school students.__ *
+*                                                                       *
+*************************************************************************
+Leti what would you like to practice? Enter 
+0 for subtraction
+1 for exponentitation 1
+How many practice questions would you like to do? Enter 0, 1, or 2: 5
+Only 0, 1 or 2 are valid choices for the number of questions.
+Good bye Leti!
+>>> 
