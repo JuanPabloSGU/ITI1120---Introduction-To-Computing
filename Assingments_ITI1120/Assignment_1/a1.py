@@ -1,5 +1,5 @@
 # JuanPablo Sanchez
-# Student number: 300173810
+# Student number:
 # Assignment Number 1
 # year 2020
 
